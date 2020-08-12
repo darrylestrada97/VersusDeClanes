@@ -26,3 +26,17 @@ h2 span {
   padding-bottom: 300px; 
   display: block; 
 }
+
+#centrado{
+
+  text-align: center;
+
+}
+
+#modos-col{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
